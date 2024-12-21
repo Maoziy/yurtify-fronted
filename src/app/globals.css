@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Özelleştirilmiş sınıfları utilities katmanına ekleme */
+@layer utilities {
+  .gradient-radial-accent {
+    background-image: radial-gradient(circle, #f56565, #3182ce);
+  }
+}
+
+/* Global body stilleri */
+.body {
+  @apply text-text font-sans;
+  /* background: radial-gradient(circle, #f56565, #3182ce); Direkt background tanımı */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to bottom, #f7fafc, #e2e8f0);
+  font-family: 'Inter', sans-serif;
+  padding: 20px;
+}
+
+/* Başlıklar */
+.h1, .h2, .h3, .h4 {
+  @apply font-bold text-white;
+}
+
+/* Butonlar */
+.button {
+  @apply rounded-md hover:opacity-80 transition ease-in-out duration-200;
+}
+
+.grid {
+  @apply gap-8;
+}
