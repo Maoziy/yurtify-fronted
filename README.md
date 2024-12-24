@@ -53,7 +53,7 @@ If you're working on dormitory-related templates, add screenshots or template de
 
 | Template Design 1       | 
 |-------------------------|
-| <img src="./templates/login.jpg" alt="login" style="width: 200px; height: auto;" /> | 
+| <img src="./screenshoots/login.jpg" alt="login" style="width: 200px; height: auto;" /> | 
 
 ---
 
