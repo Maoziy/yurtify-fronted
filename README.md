@@ -39,11 +39,11 @@ Here are placeholders for application screenshots:
 
 | Dashboard               | Dormitory Details        | Room Management         |
 |-------------------------|--------------------------|-------------------------|
-| <img src="./screenshots/dashboard.jpg" alt="Dashboard" style="width: 200px; height: auto;" /> | <img src="./screenshots/dormitory_details.jpg" alt="Dormitory Details" style="width: 200px; height: auto;" /> | <img src="./screenshots/room_management.jpg" alt="Room Management" style="width: 200px; height: auto;" /> |
+| <img src="./screenshoots/dashboard.jpg" alt="Dashboard" style="width: 200px; height: auto;" /> | <img src="./screenshoots/dormitory_details.jpg" alt="Dormitory Details" style="width: 200px; height: auto;" /> | <img src="./screenshoots/room_management.jpg" alt="Room Management" style="width: 200px; height: auto;" /> |
 
 | Student Management      | Main Page           | Login               |
 |-------------------------|--------------------------|-------------------------|
-| <img src="./screenshots/student_management.jpg" alt="Student Management" style="width: 200px; height: auto;" /> | <img src="./screenshots/main_page.jpg" alt="Add Dormitory" style="width: 200px; height: auto;" /> | <img src="./screenshots/login.jpg" alt="Add Room" style="width: 200px; height: auto;" /> |
+| <img src="./screenshoots/student_management.jpg" alt="Student Management" style="width: 200px; height: auto;" /> | <img src="./screenshoots/main_page.jpg" alt="Add Dormitory" style="width: 200px; height: auto;" /> | <img src="./screenshoots/login.jpg" alt="Add Room" style="width: 200px; height: auto;" /> |
 
 ---
 
