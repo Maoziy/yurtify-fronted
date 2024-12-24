@@ -45,15 +45,6 @@ Here are placeholders for application screenshots:
 |-------------------------|--------------------------|-------------------------|
 | <img src="./screenshoots/student_management.jpg" alt="Student Management" style="width: 200px; height: auto;" /> | <img src="./screenshoots/main_page.jpg" alt="Add Dormitory" style="width: 200px; height: auto;" /> | <img src="./screenshoots/login.jpg" alt="Add Room" style="width: 200px; height: auto;" /> |
 
----
-
-## Template Design Placeholder
-
-If you're working on dormitory-related templates, add screenshots or template details here:
-
-| Template Design 1       | 
-|-------------------------|
-| <img src="./screenshoots/login.jpg" alt="login" style="width: 200px; height: auto;" /> | 
 
 ---
 
